@@ -1,5 +1,5 @@
 # EMPOWERME 
-:fa-trophy: **Página Web Oficial** :fa-trophy:
+🏆 **Página Web Oficial** 🏆
 
 Bienvenidos al repositorio oficial de **EMPOWERME**. Nuestra empresa está comprometida con una visión clara: empoderar y transformar, creando un movimiento de impacto profundo y duradero. Este repositorio es el punto de partida para el desarrollo de nuestra página web, la cual reflejará nuestra misión de trabajar junto a personas que compartan nuestra pasión por el crecimiento y la transformación.
 
