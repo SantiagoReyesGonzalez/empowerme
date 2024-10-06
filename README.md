@@ -12,4 +12,4 @@ Aquí encontrarás todo el código necesario para construir una plataforma que r
 
 Este proyecto comenzará utilizando el framework Astro para el desarrollo del frontend. Astro nos permitirá construir un sitio web rápido y optimizado, aprovechando su arquitectura de "islas" para ofrecer una experiencia de usuario fluida y eficiente. Con Astro, podremos integrar fácilmente componentes interactivos y asegurar un rendimiento excepcional en cada visita.
 
-*By Santiago Reyes*
+*By Santiago Reyes Gonzalez*
